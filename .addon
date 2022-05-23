@@ -1,0 +1,14 @@
+{
+  "Title": "func_vehicle demo",
+  "Type": "map",
+  "Org": "muffin",
+  "Ident": "funcvehicledemo",
+  "Schema": 1,
+  "HasAssets": true,
+  "AssetsPath": "",
+  "ResourcePaths": null,
+  "HasCode": false,
+  "CodePath": null,
+  "RootNamespace": null,
+  "Metadata": {}
+}
